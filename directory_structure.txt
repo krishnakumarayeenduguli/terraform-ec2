@@ -1,0 +1,9 @@
+terraform-ec2/
+├── main.tf
+├── modules/
+│   └── ec2/
+│       ├── main.tf
+│       ├── outputs.tf
+│       ├── variables.tf
+└── versions.tf
+
